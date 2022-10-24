@@ -1,0 +1,27 @@
+.mycc-active-toggle {
+    display: inline-block;
+    transition: .4s;
+    background: #fff;
+    border: 1px solid #b4b9be;
+    border-radius: 0;
+    outline: none;
+    box-shadow: none;
+    width: 26px;
+    height: 14px;
+    margin-top: 2px;
+}
+
+.mycc-active-toggle:before{
+    content: '';
+    display: block;
+    transition: .4s, background-color 1s linear;
+    background: #999;
+    border-radius: 0;
+    width: 12px;
+    height: 12px;
+    margin: 1px;
+}
+.mycc-active-toggle.active:before{
+    background: #68d555;
+    transform: translateX(100%)
+}

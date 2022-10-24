@@ -1,0 +1,108 @@
+.mycc-code-choice{
+    position: relative;
+    background: #fff;
+    padding: 20px 40px 40px;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    max-width: 100%;
+    margin-top: 45px;
+}
+.mycc-code-choice-header{
+    text-align: center;
+    font-size: 24px;
+}
+.mycc-code-choice-close{
+    font-size: 26px;
+    position: absolute;
+    display: block;
+    top: 0;
+    margin: 8px;
+    right: 0;
+}
+.mycc-code-choice-items{
+    display: flex;
+}
+
+.mycc-code-choice-item{
+    flex: 0 0 50%;
+    padding: 20px 40px;
+    color: #2b2b2b;
+    outline: none;
+    box-shadow: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+.mycc-code-choice-item:first-child{
+    border-right: 2px solid #2ea2cc;
+}
+
+.mycc-code-choice-title{
+    display: block;
+    font-size: 16px;
+    color: #000;
+}
+.mycc-code-choice-desc{
+    min-height: 3rem;
+}
+
+.js-disabled-link{
+    outline: none !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+    border-color: #666 !important;
+    background: #666 !important; /* todo  refactor btn*/
+}
+
+.mycc-activate-success{
+    font-size: 16px;
+    color: #6d6767;
+    padding: 10px 20px;
+    margin: 10px auto 0;
+    text-align: center;
+}
+
+.mycc-btn{
+    /*90x35*/
+    height: 36px;
+    line-height: 28px;
+    padding: 0 12px 2px;
+    border-radius: 3px;
+    color: #fff;
+    background: #0085ba;
+    border: 1px solid;
+    border-color: #0073aa #006799 #006799;
+    text-shadow: 0 -1px 1px #006799, 1px 0 1px #006799, 0 1px 1px #006799, -1px 0 1px #006799;
+}
+
+.mycc-btn.loading{
+    background:#0085ba url('img/loading.svg') no-repeat 4px center;
+    background-size: 20px 36px;
+    padding-left: 32px;
+}
+
+    /* 19x19 checkbox */
+.mycc-btn:disabled{
+    background: #666666;
+    text-shadow: none;
+    border: 1px solid #666666;
+}
+.mycc-requirements{
+    text-align: center;
+    margin: 15px 0 0;
+}
+.mycc-requirements-agree{
+    text-align: left;
+    display: inline-block;
+    margin-left: 15px;
+}
+.mycc-requirements-right{
+    display: inline-block;
+}
+.mycc-requirements div{
+    color: #666;
+}
+.mycc-requirements a{
+    font-size: 12px;
+    color: #666;
+}
+

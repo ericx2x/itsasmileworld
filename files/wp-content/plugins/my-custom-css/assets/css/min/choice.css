@@ -1,0 +1,46 @@
+.mycc-code-choice{
+    position: relative;
+    background: #fff;
+    padding: 20px 40px 40px;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    max-width: 100%;
+    margin-top: 45px;
+}
+.mycc-code-choice-header{
+    text-align: center;
+    font-size: 24px;
+}
+.mycc-code-choice-close{
+    font-size: 26px;
+    position: absolute;
+    display: block;
+    top: 0;
+    margin: 8px;
+    right: 0;
+}
+.mycc-code-choice-items{
+    display: flex;
+}
+
+.mycc-code-choice-item{
+    flex: 0 0 50%;
+    padding: 20px 40px;
+    color: #2b2b2b;
+    outline: none;
+    box-shadow: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+.mycc-code-choice-item:first-child{
+    border-right: 2px solid #2ea2cc;
+}
+
+.mycc-code-choice-title{
+    display: block;
+    font-size: 20px;
+    color: #000;
+}
+.mycc-code-choice-desc{
+    min-height: 3rem;
+}

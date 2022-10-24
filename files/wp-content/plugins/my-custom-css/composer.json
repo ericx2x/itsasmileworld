@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Adsstudio\\MyCustomCSS\\": "."
+        }
+    },
+    "require": {
+        "mobiledetect/mobiledetectlib": "^2.8"
+    }
+}

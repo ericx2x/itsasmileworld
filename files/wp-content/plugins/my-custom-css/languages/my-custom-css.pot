@@ -1,0 +1,597 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: My Custom CSS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-21 15:28+0400\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Salvatore Noschese (DarkWolf) <admin@darkwolf.it>\n"
+"Language-Team: SalvatoreN <https://laltroweb.it/>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/AbstractListTable.php:164 pages/myad/Edit.php:137
+#: pages/myphp/Edit.php:138
+msgid "Name"
+msgstr ""
+
+#: classes/AbstractListTable.php:165
+msgid "Shortcode"
+msgstr ""
+
+#: classes/AbstractListTable.php:166 classes/AbstractListTable.php:177
+msgid "Active"
+msgstr ""
+
+#: classes/AbstractListTable.php:167
+msgid "Tags"
+msgstr ""
+
+#: classes/AbstractListTable.php:178
+msgid "Deactive"
+msgstr ""
+
+#: classes/AbstractListTable.php:179 classes/AdListTable.php:25
+#: classes/PhpListTable.php:26
+msgid "Clone"
+msgstr ""
+
+#: classes/AbstractListTable.php:180 classes/AdListTable.php:26
+#: classes/PhpListTable.php:27 pages/myphp/Edit.php:243
+msgid "Delete"
+msgstr ""
+
+#: classes/AbstractListTable.php:241 classes/AbstractListTable.php:407
+msgid "(copy)"
+msgstr ""
+
+#: classes/AbstractListTable.php:282
+msgid "(untitled)"
+msgstr ""
+
+#: classes/AbstractListTable.php:342
+msgid "Show all tags"
+msgstr ""
+
+#: classes/AbstractListTable.php:356
+msgid "Filter"
+msgstr ""
+
+#: classes/AdListTable.php:24 classes/PhpListTable.php:25
+msgid "Edit"
+msgstr ""
+
+#: classes/Helper.php:30
+msgid "Activate by Default"
+msgstr ""
+
+#: classes/Helper.php:32
+msgid ""
+"Make the 'Save and Activate' button the default action when saving a "
+"snippet."
+msgstr ""
+
+#: classes/Helper.php:37
+msgid "Enable Scope Selector"
+msgstr ""
+
+#: classes/Helper.php:39
+msgid "Enable the scope selector when editing a snippet"
+msgstr ""
+
+#: classes/Helper.php:44
+msgid "Enable Snippet Tags"
+msgstr ""
+
+#: classes/Helper.php:46
+msgid "Show snippet tags on admin pages"
+msgstr ""
+
+#: classes/Helper.php:51
+msgid "Enable Snippet Descriptions"
+msgstr ""
+
+#: classes/Helper.php:53
+msgid "Show snippet descriptions on admin pages"
+msgstr ""
+
+#: classes/Helper.php:58
+msgid "Disable Shortcode Syntax Highlighter"
+msgstr ""
+
+#: classes/Helper.php:60
+msgid ""
+"Disable the syntax highlighting for the [my_custom_php] shortcode on "
+"the front-end"
+msgstr ""
+
+#: classes/Helper.php:65
+msgid "Complete Uninstall"
+msgstr ""
+
+#: classes/Helper.php:69
+#, php-format
+msgid ""
+"When the plugin is deleted from the <a href=\"%s\">Plugins</a> menu, "
+"also delete all snippets and plugin settings."
+msgstr ""
+
+#: classes/Helper.php:84
+msgid "Row Height"
+msgstr ""
+
+#: classes/Helper.php:86
+msgid "rows"
+msgstr ""
+
+#: classes/Helper.php:92
+msgid "Use Full Editor"
+msgstr ""
+
+#: classes/Helper.php:94
+msgid "Enable all features of the visual editor"
+msgstr ""
+
+#: classes/Helper.php:99
+msgid "Media Buttons"
+msgstr ""
+
+#: classes/Helper.php:101
+msgid "Enable the add media buttons"
+msgstr ""
+
+#: classes/Helper.php:110
+msgid "Theme"
+msgstr ""
+
+#: classes/Helper.php:117
+msgid "Indent With Tabs"
+msgstr ""
+
+#: classes/Helper.php:119
+msgid "Use hard tabs (not spaces) for indentation."
+msgstr ""
+
+#: classes/Helper.php:125
+msgid "Tab Size"
+msgstr ""
+
+#: classes/Helper.php:127
+msgid "The width of a tab character."
+msgstr ""
+
+#: classes/Helper.php:134
+msgid "Indent Unit"
+msgstr ""
+
+#: classes/Helper.php:136
+msgid "How many spaces a block should be indented."
+msgstr ""
+
+#: classes/Helper.php:143
+msgid "Wrap Lines"
+msgstr ""
+
+#: classes/Helper.php:145
+msgid "Whether the editor should scroll or wrap for long lines."
+msgstr ""
+
+#: classes/Helper.php:151
+msgid "Line Numbers"
+msgstr ""
+
+#: classes/Helper.php:153
+msgid "Show line numbers to the left of the editor."
+msgstr ""
+
+#: classes/Helper.php:159
+msgid "Auto Close Brackets"
+msgstr ""
+
+#: classes/Helper.php:161
+msgid "Auto-close brackets and quotes when typed."
+msgstr ""
+
+#: classes/Helper.php:167
+msgid "Highlight Selection Matches"
+msgstr ""
+
+#: classes/Helper.php:168
+msgid "Highlight all instances of a currently selected word."
+msgstr ""
+
+#: classes/Installer.php:27
+msgid "Error with activating the plugin"
+msgstr ""
+
+#: classes/Installer.php:29
+msgid "Module successfully activated"
+msgstr ""
+
+#: classes/Installer.php:50
+msgid "Ошибка при установке модуля"
+msgstr ""
+
+#: classes/Installer.php:56
+msgid "Ошибка при активации плагина"
+msgstr ""
+
+#: classes/Installer.php:58
+msgid "Модуль успешно активирован"
+msgstr ""
+
+#: modules/my-css.php:58
+msgid "Settings"
+msgstr ""
+
+#: modules/my-css.php:61
+msgid "Support"
+msgstr ""
+
+#: modules/my-css.php:369 modules/my-css.php:578
+msgid "My Custom CSS Panel"
+msgstr ""
+
+#: modules/my-css.php:372
+msgid "Font:"
+msgstr ""
+
+#: modules/my-css.php:382
+msgid "Theme:"
+msgstr ""
+
+#: modules/my-css.php:383 modules/my-css.php:450 modules/my-css.php:454
+#: modules/my-css.php:458 modules/my-css.php:462 modules/my-css.php:466
+msgid ""
+"Warning!!! This will refresh entire page (Unsaved data will be lost) - "
+"Continue?"
+msgstr ""
+
+#: modules/my-css.php:384
+msgid "Bright:"
+msgstr ""
+
+#: modules/my-css.php:401
+msgid "Dark:"
+msgstr ""
+
+#: modules/my-css.php:431
+msgid "No backup found"
+msgstr ""
+
+#: modules/my-css.php:435
+msgid "View backups"
+msgstr ""
+
+#: modules/my-css.php:435
+msgid "Click to view all backups!"
+msgstr ""
+
+#: modules/my-css.php:439
+msgid "Backup:"
+msgstr ""
+
+#: modules/my-css.php:443
+msgid "Enable"
+msgstr ""
+
+#: modules/my-css.php:444
+msgid "Disable"
+msgstr ""
+
+#: modules/my-css.php:446
+msgid "Advanced"
+msgstr ""
+
+#: modules/my-css.php:449
+msgid "Invisibles"
+msgstr ""
+
+#: modules/my-css.php:453
+msgid "Margin"
+msgstr ""
+
+#: modules/my-css.php:457
+msgid "LineNumbers"
+msgstr ""
+
+#: modules/my-css.php:461
+msgid "Backup"
+msgstr ""
+
+#: modules/my-css.php:465
+msgid "Autocomplete"
+msgstr ""
+
+#: modules/my-css.php:478
+msgid "Save"
+msgstr ""
+
+#: modules/my-css.php:500
+msgid "My custom CSS - Backup"
+msgstr ""
+
+#: modules/my-css.php:502 modules/my-css.php:522
+msgid "Close now!"
+msgstr ""
+
+#: modules/my-css.php:504
+msgid "Erase all backup?"
+msgstr ""
+
+#: modules/my-css.php:504
+msgid "Do you want really delete all backup?"
+msgstr ""
+
+#: modules/my-css.php:510
+msgid "File:"
+msgstr ""
+
+#: modules/my-css.php:511
+msgid "Path:"
+msgstr ""
+
+#: modules/my-css.php:512
+msgid "Saved:"
+msgstr ""
+
+#: modules/my-css.php:513
+msgid "Size:"
+msgstr ""
+
+#: modules/my-css.php:521
+msgid "My custom CSS - Erase Backup"
+msgstr ""
+
+#: modules/my-css.php:528
+msgid "bytes, was successfully deleted!!!"
+msgstr ""
+
+#: modules/my-css.php:578 pages/Import.php:46
+msgid "My Custom CSS"
+msgstr ""
+
+#: pages/Import.php:47
+msgid "Import php/ad snippets from a export file"
+msgstr ""
+
+#: pages/Import.php:96
+msgid "Import snippets (php, ad)"
+msgstr ""
+
+#: pages/Import.php:106
+msgid "An error occurred when processing the import files."
+msgstr ""
+
+#: pages/Import.php:154
+msgid "Import PHP code"
+msgstr ""
+
+#: pages/Import.php:161
+msgid ""
+"Upload one or more PHP Code export files and the snippets will be "
+"imported."
+msgstr ""
+
+#: pages/Import.php:164
+msgid ""
+"Afterwards, you will need to visit the \"My custom php\" or \"My "
+"custom ads\" page to activate the imported snippets."
+msgstr ""
+
+#: pages/Import.php:171
+msgid "Duplicate Snippets"
+msgstr ""
+
+#: pages/Import.php:200
+msgid "Upload Files"
+msgstr ""
+
+#: pages/Import.php:203
+msgid ""
+"Choose one or more PHP Code (.xml or .json) files to upload, then "
+"click \"Upload files and import\"."
+msgstr ""
+
+#: pages/Import.php:223
+msgid "Upload files and import"
+msgstr ""
+
+#: pages/myad/Choice.php:28
+msgid "Create Ad"
+msgstr ""
+
+#: pages/myad/Choice.php:44 pages/myphp/Choice.php:39
+msgid "Choose what you want to create"
+msgstr ""
+
+#: pages/myad/Choice.php:49
+msgid "AD SHORTCODE"
+msgstr ""
+
+#: pages/myad/Choice.php:50
+msgid ""
+"Easy way to insert an ad unit anywhere in your site. Just paste the ad "
+"code into the handler, the shortcode will be generated automatically."
+msgstr ""
+
+#: pages/myad/Choice.php:52 pages/myad/Choice.php:58
+#: pages/myphp/Choice.php:47 pages/myphp/Choice.php:53
+msgid "Create"
+msgstr ""
+
+#: pages/myad/Choice.php:55
+msgid "CUSTOM ADS"
+msgstr ""
+
+#: pages/myad/Choice.php:56
+msgid ""
+"Paste your ad code and set up automatic placement in posts or in pages "
+"of your site."
+msgstr ""
+
+#: pages/myad/Choice.php:68
+msgid "Activate"
+msgstr ""
+
+#: pages/myad/Choice.php:72
+msgid "I agree"
+msgstr ""
+
+#: pages/myad/Choice.php:73
+msgid "terms and conditions"
+msgstr ""
+
+#: pages/myad/Edit.php:77 pages/myad/Edit.php:79
+msgid "Edit AD"
+msgstr ""
+
+#: pages/myad/Edit.php:140 pages/myphp/Edit.php:141
+msgid "Enter title here"
+msgstr ""
+
+#: pages/myad/Edit.php:148 pages/myphp/Edit.php:149
+msgid ""
+"Shortcode for your snippet will be displayed here after post saving"
+msgstr ""
+
+#: pages/myad/Edit.php:155 pages/myphp/Edit.php:156
+msgid "Insert this shortcode to post content."
+msgstr ""
+
+#: pages/myad/Edit.php:161 pages/myphp/Edit.php:162
+msgid "Code"
+msgstr ""
+
+#: pages/myad/Edit.php:188 pages/myphp/Edit.php:189
+msgid "Save Changes and Execute Once"
+msgstr ""
+
+#: pages/myad/Edit.php:193 pages/myad/Edit.php:207
+#: pages/myphp/Edit.php:194 pages/myphp/Edit.php:208
+msgid "Save Changes and Activate"
+msgstr ""
+
+#: pages/myad/Edit.php:213 pages/myphp/Edit.php:214
+msgid "Save Changes and Deactivate"
+msgstr ""
+
+#: pages/myad/Edit.php:252
+msgid "Display on posts"
+msgstr ""
+
+#: pages/myad/Edit.php:252
+msgid "Display on pages"
+msgstr ""
+
+#: pages/myad/Edit.php:268
+msgid "Display on desktop"
+msgstr ""
+
+#: pages/myad/Edit.php:268
+msgid "Display on mobile"
+msgstr ""
+
+#: pages/myad/Edit.php:284
+msgid ""
+"Select the device type to show the ad unit. Check both, if you want to "
+"display the ad block on desktop and mobile devices."
+msgstr ""
+
+#: pages/myad/Edit.php:287
+msgid "Before content"
+msgstr ""
+
+#: pages/myad/Edit.php:287
+msgid "After content"
+msgstr ""
+
+#: pages/myad/Edit.php:287
+msgid "After paragraph"
+msgstr ""
+
+#: pages/myad/Edit.php:289
+msgid "The ad block will be placed right after the post title"
+msgstr ""
+
+#: pages/myad/Edit.php:290
+msgid ""
+"The ad block will be placed right after the last paragraph of the post"
+msgstr ""
+
+#: pages/myad/Edit.php:291
+msgid "The ad block will be placed right after the predefined paragraph"
+msgstr ""
+
+#: pages/myad/Grid.php:43
+msgid "My custom ADs"
+msgstr ""
+
+#: pages/myphp/Choice.php:27
+msgid "Create PHP"
+msgstr ""
+
+#: pages/myphp/Choice.php:44
+msgid "PHP SHORTCODE"
+msgstr ""
+
+#: pages/myphp/Choice.php:45
+msgid ""
+"Easy way to create a shortcode. Just write a handler and the shortcode "
+"will be generated automatically"
+msgstr ""
+
+#: pages/myphp/Choice.php:50
+msgid "PHP SNIPPET"
+msgstr ""
+
+#: pages/myphp/Choice.php:51
+msgid "Custom php code. You may use hooks and filters"
+msgstr ""
+
+#: pages/myphp/Edit.php:78 pages/myphp/Edit.php:80
+msgid "Edit PHP"
+msgstr ""
+
+#: pages/myphp/Edit.php:225
+msgid "Download"
+msgstr ""
+
+#: pages/myphp/Edit.php:230
+msgid "Export"
+msgstr ""
+
+#: pages/myphp/Edit.php:237
+msgid "You are about to permanently delete this snippet."
+msgstr ""
+
+#: pages/myphp/Edit.php:238
+msgid "'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: pages/myphp/Edit.php:271
+msgid "Global"
+msgstr ""
+
+#: pages/myphp/Edit.php:272
+msgid "Admin"
+msgstr ""
+
+#: pages/myphp/Edit.php:273
+msgid "Frontend"
+msgstr ""
+
+#: pages/myphp/Edit.php:274
+msgid "Run once"
+msgstr ""
+
+#: pages/myphp/Grid.php:42
+msgid "My custom PHP"
+msgstr ""
